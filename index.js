@@ -63,6 +63,10 @@
     ></script>
     <link rel="icon" type="image/png" href="https://media.discordapp.net/attachments/725331486630215700/754015127178707084/snapshot154.png?width=609&height=609"/>
     <title>Shade</title>
+<head>
+    <script async src="https://arc.io/widget.min.js#zmRKK7zG"></script>
+    ...
+</head>
  
 <style>
 @import url('https://fonts.googleapis.com/css?family=Roboto');
