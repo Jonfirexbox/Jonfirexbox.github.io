@@ -1,4 +1,6 @@
+<!DOCTYPE html>
 <head>
+<body>
     <meta charset="UTF-8" />
     <meta
       name="viewport"
