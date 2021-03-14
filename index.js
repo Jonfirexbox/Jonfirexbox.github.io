@@ -418,5 +418,5 @@ footer {
         <footer>© 2021 Copyright Jonfirexbox</footer>
     
 
-
+</head>
     </body>
